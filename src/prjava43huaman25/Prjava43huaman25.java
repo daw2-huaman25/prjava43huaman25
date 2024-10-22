@@ -2,6 +2,7 @@ package prjava43huaman25;
 import java.awt.*; // using AWT containers and components
 import java.awt.event.*; // using AWT events and listener interfaces
 // An AWT GUI program inherits the top-level container java.awt.Frame
+import java.sql.*;
 import java.io.*;
 public class Prjava43huaman25 extends Frame
 implements ActionListener, WindowListener {
